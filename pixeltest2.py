@@ -3,6 +3,8 @@ from rpi_ws281x import PixelStrip, Color
 from random import randint
 import colorsys as col
 
+# test 
+
 # LED strip configuration:
 LED_COUNT = 350        # Number of LED pixels.
 LED_PIN = 18          # GPIO pin connected to the pixels (must support PWM!).
